@@ -16,7 +16,7 @@
                 <th>No</th>
                 <th>Tanggal</th>
                 <th>Nama</th>
-                <th>Instansi\Lembaga</th>
+                <th>Instansi</th>
                 <th>Tujuan</th>
                 <th>No Telpon</th>
             </tr>

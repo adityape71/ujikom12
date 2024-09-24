@@ -20,7 +20,7 @@
         </div>
         <div class="row">
             <div class="col mb-3">
-                <label class="form-label">Instansi\Lembaga</label>
+                <label class="form-label">Instansi</label>
                 <input type="text" name="instansi/lembaga" class="form-control" placeholder="Instansi\Lemabaga" value="{{ $product->instansi }}" >
             </div>
             <div class="col mb-3">

@@ -12,8 +12,10 @@ class Product extends Model
     protected $fillable = [
         'tanggal',
         'nama',
-        'instansi',
+       'instansi',
         'tujuan',
-        'no_telepon'
+        'no_telepon',
+        'updated_at',
+        'created_at'
     ];
 }
